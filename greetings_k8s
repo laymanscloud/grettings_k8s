@@ -1,6 +1,6 @@
 {
-    "skirmish-pods": "Mayday! Mayday! This is Atlis-202!",
-    "skirmish-replicasets": "Is anyone there?! This is Orion-427! Reapeat! This is Orion-427!",
+    "module-two-lesson6-skirmish-pods": "Mayday! Mayday! This is Atlis-202!",
+    "module-two-lesson8-skirmish-replicasets": "Is anyone there?! This is Orion-427! Reapeat! This is Orion-427!",
     "portfolio": "See our amazing work here!",
     "default": "Welcome to our website!"
 }
